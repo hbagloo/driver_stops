@@ -1,0 +1,16 @@
+﻿month,day,truck,starter,start time,stoper,stop time,stop_time,reason
+4,16,T29,driver 1,1403/04/16 16:39:30,driver 1,1403/04/16 16:47:04,8,Loading Q
+4,16,T29,driver 2,1403/04/16 17:25:37,driver 2,1403/04/16 17:27:03,2,not loading
+4,16,T35,driver 3,1403/04/16 17:13:13,driver 3,1403/04/16 17:17:21,4,unloading q
+4,16,T35,driver 4,1403/04/16 18:21:09,driver 4,1403/04/16 18:28:31,7,unloading q
+4,16,T35,driver 5,1403/04/16 18:37:53,driver 5,1403/04/16 18:40:25,3,Loading Q
+4,16,T35,driver 6,1403/04/16 18:44:13,driver 6,1403/04/16 18:46:56,2,not loading
+4,16,T35,driver 7,1403/04/16 19:04:50,driver 7,1403/04/16 19:08:35,4,unloading q
+4,16,T35,driver 8,1403/04/16 21:28:54,driver 8,1403/04/16 21:34:35,6,Loading Q
+4,16,T35,driver 9,1403/04/16 22:05:44,driver 9,1403/04/16 22:07:09,2,Loading Q
+4,16,T35,driver 10,1403/04/16 22:23:17,driver 10,1403/04/16 22:29:28,6,unloading q
+4,16,T35,driver 11,1403/04/16 22:58:52,driver 11,1403/04/16 23:02:32,4,unloading q
+4,16,T35,driver 12,1403/04/16 23:12:18,driver 12,1403/04/16 23:16:27,4,Loading Q
+4,16,T35,driver 13,1403/04/17 00:09:23,driver 13,1403/04/17 00:16:06,7,Loading Q
+4,16,T35,driver 14,1403/04/17 00:19:08,driver 14,1403/04/17 00:20:00,1,not loading
+4,16,T35,driver 15,1403/04/16 16:09:10,driver 15,1403/04/16 16:31:27,22,unloading q
